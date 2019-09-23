@@ -1,0 +1,6 @@
+com\mycompany\dto\DtoUsuario.class
+com\mycompany\entity\Usuario.class
+com\mycompany\interfaces\IUsuarioFacade.class
+com\mycompany\beans\AbstractFacade.class
+com\mycompany\beans\UsuarioFacade.class
+com\mycompany\entity\Usuario_.class
